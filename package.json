@@ -1,6 +1,6 @@
 {
   "name": "@colakit/capitalize",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A lightweight utility function, similar to lodash.capitalize.",
   "main": "src/index.js",
   "directories": {
